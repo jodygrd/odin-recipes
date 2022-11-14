@@ -1,0 +1,10 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(162, 132, 162);
+}
+
+.recipe-image {
+    width: 300px;
+    height: auto;
+    border: 5px solid black;
+}
